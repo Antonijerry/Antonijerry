@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Antonijerry
-- 👀 I’m interested in Html, css, veu.js, react.js python, javascript, php...
-- 🌱 I’m currently learning python and django
-- 💞️ I’m looking to collaborate on python and javascript
+- 👋 Hi, I’m Antonijerry, A FullStack developer / Software Engineer.
+- 👀 I’m interested in Html, css, Angular, React, python, javascript...
+- 🌱 I’m currently learning Java and Springboot
+- 💞️ I’m looking to collaborate on Java and Angular
 - 📫 contact me via tonyjerry001@gmail.com
 
 <!---
