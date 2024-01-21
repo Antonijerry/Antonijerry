@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antonijerry, A FullStack developer / Software Engineer.
-- 👀 I’m interested in Html, css, Angular, React, python, javascript...
-- 🌱 I’m currently learning Java and Springboot
-- 💞️ I’m looking to collaborate on Java and Angular
+- 👀 I’m interested in Java, springboot , Html, css, bootstrap, React, javascript...
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Java and springboot 
 - 📫 contact me via tonyjerry001@gmail.com
 
 <!---
